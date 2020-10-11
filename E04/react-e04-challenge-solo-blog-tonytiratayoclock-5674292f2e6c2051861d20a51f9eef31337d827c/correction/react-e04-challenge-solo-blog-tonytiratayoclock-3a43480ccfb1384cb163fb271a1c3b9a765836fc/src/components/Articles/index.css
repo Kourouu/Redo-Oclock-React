@@ -1,0 +1,32 @@
+.blog-posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 900px;
+  margin: 25px auto;
+ 
+}
+
+.blog-posts article {
+  width: 50%;
+  margin: 15px 0;
+  text-align: left;
+}
+
+.blog-posts article h2 {
+  font-size: 1.5em;
+  margin: 5px 0;
+}
+
+.blog-posts article a {
+  background: #e52354;
+  display: inline;
+  padding: 5px;
+  margin: 10px 0;
+  color: white;
+  font-size: 10px;
+}
+
+.blog-posts article p {
+  margin-top: 10px;
+}
