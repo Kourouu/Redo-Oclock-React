@@ -1,0 +1,11 @@
+.blog-header ul {
+  display: flex;
+  justify-content: center;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.blog-header ul li {
+  margin: 0 15px;
+  text-decoration: underline;
+}

@@ -1,0 +1,9 @@
+#steps {
+  font-size: 1em;
+  margin: 50px;
+}
+
+#steps .number {
+  font-size: 3em;
+  color: #bbb;
+}

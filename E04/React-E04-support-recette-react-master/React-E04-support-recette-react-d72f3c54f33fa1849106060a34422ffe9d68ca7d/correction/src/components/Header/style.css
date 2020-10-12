@@ -1,0 +1,20 @@
+#header {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 350px;
+  background: red;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+  color: white;
+  background-size: cover;
+}
+
+#header div {
+  width: 100%;
+  margin: 15px;
+}
+
+#header h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
